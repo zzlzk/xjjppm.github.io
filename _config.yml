@@ -1,6 +1,6 @@
 title: zzlzk's IQ is 0.
 subtitle: SDOI2018 Bless All.
-description: splay.
+description: This guy is lazy, but he still writes a description.
 author: zzlzk
 language: en #zh-Hans
 date_format: '%Y-%m-%d'
@@ -85,7 +85,7 @@ menu_icons:
   sitemap: sitemap
   commonweal: heartbeat
 
-scheme: Muse # Mist | Pisces
+scheme: Pisces # Mist | Pisces | Muse
 
 font:
   enable: true
