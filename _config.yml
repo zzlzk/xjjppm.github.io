@@ -2,7 +2,7 @@ title: zzlzk's IQ is 0.
 subtitle: SDOI2018 Bless All.
 description: This guy is lazy, but he still writes a description.
 author: zzlzk
-language: en #zh-Hans
+language: zh-Hans #en
 date_format: '%Y-%m-%d'
 
 url:
@@ -81,6 +81,7 @@ menu_icons:
   tags: tags
   archives: archive
   sitemap: sitemap
+  links: link
   commonweal: heartbeat
 
 scheme: Pisces # Mist | Pisces | Muse
@@ -145,10 +146,6 @@ sidebar:
 links_title: Friends
 links:
   ZlycerQan: https://www.cnblogs.com/ZlycerQan/
-
-links_icons:
-  enable: true
-  links: link
 
 scroll_to_more: true
 
