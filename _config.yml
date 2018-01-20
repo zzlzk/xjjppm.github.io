@@ -114,14 +114,14 @@ font:
 
 social:
   知乎: https://www.zhihu.com/people/zzlzk/activities
-  Github: https://github.com/zzlzk
+  github: https://github.com/zzlzk
   Luogu: https://www.luogu.org/space/show?uid=37700
   BZOJ: http://www.lydsy.com/JudgeOnline/userinfo.php?user=xjjppm
 
 social_icons:
   enable: true
   知乎: question
-  GitHub: github
+  gitHub: github
   Luogu: code
   BZOJ: code
 
