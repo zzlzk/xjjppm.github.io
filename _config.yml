@@ -113,17 +113,17 @@ font:
     size:
 
 social:
-  知乎: https://www.zhihu.com/people/zzlzk/activities
-  github: https://github.com/zzlzk
+  Github: https://github.com/zzlzk
   Luogu: https://www.luogu.org/space/show?uid=37700
   BZOJ: http://www.lydsy.com/JudgeOnline/userinfo.php?user=xjjppm
+  知乎: https://www.zhihu.com/people/zzlzk/activities
 
 social_icons:
   enable: true
-  知乎: question
-  gitHub: github
+  GitHub: question
   Luogu: code
   BZOJ: code
+  知乎: question
 
 avatar: /assets/images/avatar.gif
 
