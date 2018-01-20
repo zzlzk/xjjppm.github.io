@@ -71,8 +71,6 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  #sitemap: /sitemap.xml
-  #commonweal: /404.html
 
 menu_icons:
   enable: true
@@ -116,10 +114,16 @@ font:
 
 social:
   Github: https://github.com/zzlzk
+  Luogu: https://www.luogu.org/space/show?uid=37700
+  BZOJ: https://www.lydsy.com/JudgeOnline/userinfo.php?user=xjjppm
+  知乎: https://www.zhihu.com/people/zzlzk/activities
 
 social_icons:
   enable: true
   GitHub: github
+  Luogu: code
+  BZOJ: code
+  知乎: question
 
 avatar: /assets/images/avatar.gif
 
@@ -128,7 +132,7 @@ toc:
   number: true
   wrap: false
 
-creative_commons: by-nc-sa # by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
+creative_commons: by-nc-sa
 
 sidebar:
   position: left #right
@@ -138,9 +142,9 @@ sidebar:
   b2t: true
   scrollpercent: false
 
-links_title: Links
+links_title: Friends
 links:
-  ZlycerQan: http://http://www.cnblogs.com/ZlycerQan/
+  ZlycerQan: https://www.cnblogs.com/ZlycerQan/
 
 scroll_to_more: true
 
