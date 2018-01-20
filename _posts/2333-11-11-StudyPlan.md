@@ -1,6 +1,7 @@
 ---
 layout: post
 title: StudyPlan
+categories: life
 tags: plan
 mathjax: true
 ---
@@ -9,15 +10,17 @@ mathjax: true
 
 ![qwq](http://images.cnblogs.com/cnblogs_com/NuclearSubmarines/1013327/o_gg.jpg)
 
+
+
 <!--more-->
 
 ### `12.23-12.25`
 
-- 学习 $Aho-Corasick automaton$
+- 学习 $Aho-Corasick\;\;automaton$
 
 - 目标
-1. 手放到键盘上就是一个 $Aho-Corasick automaton$
-1. 会做简单的在`fail树`上的dp
+1. 手放到键盘上就是一个 $Aho-Corasick\;\;automaton$
+1. 会做简单的在`fail树`上的 $dp$
 1. 会在`fail树`上用数据结构来维护一些东西
 
 - $Problems$
@@ -43,7 +46,7 @@ mathjax: true
 1. `状压dp` 5道起步，~~独立~~A掉 `NOIP2018Day2T2`
 1. ~~给dalao们讲的时候不要翻车 独轮车不太稳啊~~
 
-- Problems
+- $Problems$
 
 | Accepted   | Unaccepted   |
 | :--------   | :-----  |
@@ -51,15 +54,13 @@ mathjax: true
 
 - 总结
 
-这几天发烧了，有些不在状态，本来打算到`12.28`完成的东西，到`12.30`还是没完成
-
-$$\mathcal{GG}$$
+这几天发烧了，有些不在状态，本来打算到`12.28`完成的东西，到`12.30`还是没完成，$\mathcal{GG}$
 
 目前还剩下`5道概率和期望`没有完成，先挖个坑~~以后再填。~~
 
 ### `12.31`
 
-`2017`最后一天了，躺在床上，想回忆一下自己`2017`干了些什么，想起了`gxl`，然后就没想起别的....
+`2017`最后一天了，躺在床上，想回忆一下自己 $2017$ 干了些什么，想起了`gxl`，然后就没想起别的....
 
 `gxl`对于我到底是怎样的存在？
 
@@ -77,7 +78,7 @@ $$\mathcal{GG}$$
 1. 理解莫比乌斯反演和与其相关的一些知识。
 1. 会做简单的莫比乌斯反演
 
-- Problems
+- $Problems$
 
 | Accepted   | Unaccepted   |
 | :--------   | :-----  |
