@@ -1,7 +1,7 @@
 ---
 layout: post
 title: StudyPlan
-categories: life
+category: life
 tags: plan
 mathjax: true
 ---
