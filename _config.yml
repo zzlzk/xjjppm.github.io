@@ -221,8 +221,8 @@ pace: false
 pace_theme: pace-theme-minimal
 
 canvas_nest: false
-three_waves: true
-canvas_lines: false
+three_waves: false
+canvas_lines: true
 canvas_sphere: false
 canvas_ribbon: false
 
