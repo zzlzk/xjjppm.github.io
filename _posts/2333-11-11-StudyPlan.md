@@ -1,10 +1,8 @@
 ---
 layout: post
 title: StudyPlan
-category: life
 tags: plan
 mathjax: true
-modify_date: 2018-01-20 21:36:36
 ---
 
 一份简陋的学习~~和颓废~~计划
