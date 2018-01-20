@@ -53,7 +53,7 @@ keywords: "Jekyll, NexT"
 
 rss:
 
-since: 2018
+since: 2017
 
 authoricon: toggle-on
 
@@ -121,7 +121,7 @@ social:
 
 social_icons:
   enable: true
-  GitHub: question
+  GitHub: github
   Luogu: code
   BZOJ: code
   知乎: question
@@ -160,7 +160,7 @@ auto_excerpt:
 post_meta:
   item_text: true
   created_at: true
-  updated_at: true
+  updated_at: false
   categories: true
 
 post_wordcount:
@@ -221,7 +221,7 @@ pace: false
 pace_theme: pace-theme-minimal
 
 canvas_nest: false
-three_waves: false
+three_waves: true
 canvas_lines: false
 canvas_sphere: false
 canvas_ribbon: false
