@@ -115,12 +115,12 @@ font:
 social:
   Github: https://github.com/zzlzk
   Luogu: https://www.luogu.org/space/show?uid=37700
-  BZOJ: https://www.lydsy.com/JudgeOnline/userinfo.php?user=xjjppm
+  BZOJ: www.lydsy.com/JudgeOnline/userinfo.php?user=xjjppm
   知乎: https://www.zhihu.com/people/zzlzk/activities
 
 social_icons:
   enable: true
-  GitHub: github
+  GitHub: github-square
   Luogu: code
   BZOJ: code
   知乎: question
