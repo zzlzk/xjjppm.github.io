@@ -146,6 +146,10 @@ links_title: Friends
 links:
   ZlycerQan: https://www.cnblogs.com/ZlycerQan/
 
+links_icons:
+  enable: true
+  links: link
+
 scroll_to_more: true
 
 save_scroll: false
