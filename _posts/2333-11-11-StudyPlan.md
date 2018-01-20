@@ -1,11 +1,10 @@
 ---
 layout: post
 title: StudyPlan
-key: 23331111
+category: life
 tags: plan
 mathjax: true
-modify_date: 2018-01-03 10:22:35
-picture_frame: shadow
+modify_date: 2018-01-20 21:36:36
 ---
 
 一份简陋的学习~~和颓废~~计划
@@ -16,14 +15,14 @@ picture_frame: shadow
 
 ### `12.23-12.25`
 
-- 学习 `Aho-Corasick automaton`
+- 学习 $Aho-Corasick automaton$
 
 - 目标
-1. 手放到键盘上就是一个`Aho-Corasick automaton`
+1. 手放到键盘上就是一个 $Aho-Corasick automaton$
 1. 会做简单的在`fail树`上的dp
 1. 会在`fail树`上用数据结构来维护一些东西
 
-- Problems
+- $Problems$
 
 | Accepted   | Unaccepted   |
 | :--------   | :-----  |
@@ -37,7 +36,7 @@ picture_frame: shadow
 
 ### `12.26-12.28`
 
-- 主要是dp，类型不限，但主要是概率和期望dp
+- 主要是 $dp$，类型不限，但主要是概率和期望 $dp$
 
 ![qaq](http://images.cnblogs.com/cnblogs_com/NuclearSubmarines/1013327/o_qaq.png)
 
