@@ -122,7 +122,7 @@ social_icons:
   enable: true
   GitHub: github
   Luogu: code
-  BZOJ: code
+  BZOJ: bold
   知乎: bath
 
 avatar: /assets/images/avatar.gif
