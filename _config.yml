@@ -81,7 +81,6 @@ menu_icons:
   tags: tags
   archives: archive
   sitemap: sitemap
-  links: link
   commonweal: heartbeat
 
 scheme: Pisces # Mist | Pisces | Muse
@@ -124,7 +123,7 @@ social_icons:
   GitHub: github
   Luogu: code
   BZOJ: code
-  知乎: question
+  知乎: bath
 
 avatar: /assets/images/avatar.gif
 
