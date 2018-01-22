@@ -11,9 +11,9 @@ modify_date: 2017-01-20 21:47:00
 
 ![qwq](http://images.cnblogs.com/cnblogs_com/NuclearSubmarines/1013327/o_gg.jpg)
 
-
-
 <!--more-->
+
+## 2017
 
 ### `12.23-12.25`
 
@@ -69,6 +69,8 @@ modify_date: 2017-01-20 21:47:00
 
 和`Gris`聊天，他貌似追到他女神了？羡慕.jpg
 
+## 2018
+
 ### `1.1-1.3`
 
 - 学习计算几何的一小部分知识和莫比乌斯反演
@@ -83,4 +85,43 @@ modify_date: 2017-01-20 21:47:00
 
 | Accepted   | Unaccepted   |
 | :--------   | :-----  |
-| `[CQOI2015]`选数<br>`[NOI2010]`能量采集<br>`[SDOI2015]`约数个数和<br>`[POI2007]`ZAP-Queries<br>`[HAOI2011]`Problem b<br>`POJ1269` Intersecting Lines<br>`POJ2318`TOYS<br>`POJ2398`Toy Storage<br>`POJ3304`Segments|`洛谷P3768`简单的数学题|
+| `[CQOI2015]`选数<br>`[NOI2010]`能量采集<br>`[SDOI2015]`约数个数和<br>`[POI2007]`ZAP-Queries<br>`[HAOI2011]`Problem b<br>`POJ1269` Intersecting Lines<br>`POJ2318`TOYS<br>`POJ2398`Toy Storage<br>`POJ3304`Segments|~~`洛谷P3768`简单的数学题~~|
+
+
+### `1.4-1.22`
+
+- ~~你以为我会告诉你我这几天都没学习的嘛~~
+
+- 去 $HNSDFZ$ 学习了10天(1.5-1.15)，dalao们都太厉害了，whx真可爱。
+
+- 可能去的最弱的就是我了吧 ~~虽然有个人在问DAG是什么~~
+
+![qwq](/assets/images/1.jpg)
+
+- 回来给blog换了个主题(Next)，整理了一个比较裸的[模板](https://github.com/xjjppm/xjjppm.github.io)，欢迎`Fork`
+
+- 其实我还是做了几道题的。麻麻我终于学会杜教筛了！
+
+- $Problems$
+
+| Accepted   | Unaccepted   |
+| :--------   | :-----  |
+| `51nod 1244`莫比乌斯函数之和<br>`51nod 1239`欧拉函数之和<br>`BZOJ3944`sum<br>`洛谷P3768`简单的数学题|`洛谷P3708`koishi的数学题|
+
+### `1.23-1.25`
+
+- 复习$splay,treap$，学习一下$fhq-treap$，可持久化平衡树。
+
+- 重点复习$splay$，学习$fhq-treap$。
+
+- 目标
+1. $splay$30道起步，$treap$模板写熟。
+1. 会做可持久化平衡树裸题和简单题。
+1. 会用$fhq-treap$做题，模板写熟。
+1. 平衡树的难题可以到$60\%$以上。
+
+- $Problems$
+
+|Accepted|Unaccepted|
+|:-------|:---------|
+|        |          |
