@@ -1,5 +1,5 @@
 title: zzlzk's IQ is 0.
-subtitle: Naviest OIer.
+subtitle: Naivest OIer.
 description: Nothing is impossible.
 author: zzlzk
 language: zh-Hans #en
@@ -80,11 +80,8 @@ menu_icons:
   home: home
   about: wheelchair-alt
   categories: th
-  schedule: calendar
   tags: tags
   archives: archive
-  sitemap: sitemap
-  commonweal: heartbeat
   search: search
 
 scheme: Pisces # Mist | Pisces | Muse
@@ -148,7 +145,7 @@ sidebar:
 
 links_title: Friends
 links:
-  ZlycerQan: https://zlycerqan.xyz/
+  ZlycerQan: http://zlycerqan.xyz/
 
 scroll_to_more: true
 
@@ -202,6 +199,7 @@ mathjax:
 baidu_analytics: d58521b3f4eeed6f97aefb01c566bf6d
 
 baidu_push: true
+baidushare: true
 
 livere_uid: MTAyMC8zMjQwNC84OTY1
 
