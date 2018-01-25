@@ -144,7 +144,7 @@ sidebar:
 
 links_title: Friends
 links:
-  ZlycerQan: https://www.cnblogs.com/ZlycerQan/
+  ZlycerQan: https://zlycerqan.xyz/
 
 scroll_to_more: true
 
@@ -200,6 +200,11 @@ baidu_analytics: d58521b3f4eeed6f97aefb01c566bf6d
 baidu_push: true
 
 livere_uid: MTAyMC8zMjQwNC84OTY1
+
+rating:
+  enable: false
+  id: 9228 #<app_id>
+  color:  fc6423
 
 #can't modify
 
