@@ -1,6 +1,6 @@
 title: zzlzk's IQ is 0.
-subtitle: SDOI2018 Bless All.
-description: This guy is lazy, but he still writes a description.
+subtitle: Naviest OIer.
+description: Nothing is impossible.
 author: zzlzk
 language: zh-Hans #en
 date_format: '%Y-%m-%d'
@@ -74,6 +74,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
+  schedule:
 
 menu_icons:
   enable: true
@@ -204,11 +205,6 @@ baidu_analytics: d58521b3f4eeed6f97aefb01c566bf6d
 baidu_push: true
 
 livere_uid: MTAyMC8zMjQwNC84OTY1
-
-rating:
-  enable: false
-  id: 9228 #<app_id>
-  color:  fc6423
 
 #can't modify
 
