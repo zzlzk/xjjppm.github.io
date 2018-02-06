@@ -200,12 +200,6 @@ baidu_analytics: d58521b3f4eeed6f97aefb01c566bf6d
 
 baidu_push: true
 
-
-rating:
-  enable: true
-  id: 9228
-  color:  fc6423
-
 livere_uid: MTAyMC8zMjQwNC84OTY1
 
 #can't modify
