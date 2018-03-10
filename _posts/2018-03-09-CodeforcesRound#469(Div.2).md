@@ -2,14 +2,14 @@
 layout: post
 title: Codeforces Round 469 (Div.2)
 tags:
-- CodeForces
+- Codeforces
 categories:
 - OI
 mathjax: true
 ---
 
 $\mathrm{pupil}$ 过了 $\mathrm{A,B}$ 已经知足啦！
-![qsq](http://images.cnblogs.com/cnblogs_com/NuclearSubmarines/1013327/o_a.png)
+![qsq](/assets/images/pupil.jpg)
 
 # Codeforces Round #469 (Div. 2)
 
