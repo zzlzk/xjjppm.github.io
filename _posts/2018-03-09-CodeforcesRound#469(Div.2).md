@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Codeforces Round #469 (Div. 2)
+title: Codeforces Round \#469(Div.2)
 tags:
 - CodeForces
 categories:
