@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Codeforces Round \#469(Div.2)
+title: Codeforces Round 469 (Div.2)
 tags:
 - CodeForces
 categories:
@@ -8,11 +8,10 @@ categories:
 mathjax: true
 ---
 
-# Codeforces Round #469 (Div. 2)
-
 $\mathrm{pupil}$ 过了 $\mathrm{A,B}$ 已经知足啦！
-
 ![qsq](http://images.cnblogs.com/cnblogs_com/NuclearSubmarines/1013327/o_a.png)
+
+# Codeforces Round #469 (Div. 2)
 
 ## A. Left-handers, Right-handers and Ambidexters
 
